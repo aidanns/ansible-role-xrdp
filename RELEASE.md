@@ -3,3 +3,4 @@
 ## Unreleased
 
 * Initial release.
+* Add Ansible Galaxy meta.
