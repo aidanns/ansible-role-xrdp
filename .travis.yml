@@ -2,7 +2,7 @@
 services: docker
 
 env:
-  - distro: centos7
+  - distro: centos-7
 
 script:
   # Configure test script so we can run extra tests after playbook is run.
